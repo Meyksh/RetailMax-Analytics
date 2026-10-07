@@ -1,0 +1,20 @@
+DATASET (Conjunto de Datos)
+Una colección organizada y estructurada de datos agrupados bajo un mismo contexto o dominio, procesados y preparados para consulta, análisis o entrenamiento de modelos. Un grupo de datos organizados y listos para analizar (como una tabla entera de Excel con todas sus filas y columnas).
+
+REGISTRO: Una fila de esa tabla. Representa una sola persona, venta o elemento individual.
+
+VARIABLE: (Feature / Field / Attribute)
+Un atributo, propiedad o característica medible que describe a un registro. Representa una columna dentro de una estructura tabular y puede tomar diferentes valores entre distintos registros.
+
+KPI (Key Performance Indicator)
+Una métrica crítica seleccionada específicamente para evaluar el éxito en el cumplimiento de los objetivos estratégicos clave de un negocio o proyecto. características: 
+Posee un objetivo explícito (target o threshold). Es acccionable y contextual (Smart: Específico, Medible, Alcanzable, Relevante y Temporal).Relaciona directamente los datos operacionales con los resultados del negocio.
+
+MÉTRICA: (Metric)
+Una medida cuantitativa calculada a partir de los datos que permite rastrear, evaluar y auditar el estado de un proceso, sistema o actividad operativa específica.
+
+INSIGHT:(Hallazgo de Valor)
+Una comprensión profunda, no evidente y accionable sobre el comportamiento del negocio o los datos, obtenida mediante análisis avanzado, correlación o modelado predictivo. Diferencia con el dato/métrica: Un dato muestra qué pasó; una métrica muestra cuánto; un insight explica por qué pasó y qué acción estratégica se debe tomar.El descubrimiento valioso o la conclusión oculta que encuentras al analizar los datos y que te dice qué decisión tomar (por ejemplo: descubrir que las ventas caen los domingos porque la app falla en celulares).
+
+FUENTE DE DATOS: (Data Source)
+Es el origen primario o secundario desde el cual se capturan, extraen e ingieren los datos hacia un sistema de procesamiento o almacenamiento. El lugar original de donde salen los datos (como una base de datos, un Excel, una app o un sensor)
