@@ -11,3 +11,7 @@ Skills:
 5.Control de versiones: github
 
 ![Static Badge](https://img.shields.io/badge/github-repo-green?style=plastic&logo=github&logoColor=black)
+
+![Static Badge](https://img.shields.io/badge/jira-scrum-blue?style=plastic&logo=jira&logoColor=black)
+
+![Static Badge](https://img.shields.io/badge/Gemini_IA-Schuled-violet?style=plastic&logo=googlegemini&logoColor=black)
