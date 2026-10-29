@@ -7,5 +7,7 @@ Skills:
 1.Metodología scrum
 2.Tablero de jira con scrum
 3.Archivos markdown
-4.NotebookLM
+4.Gemini IA (Gems + NotebookLM)
 5.Control de versiones: github
+
+![Static Badge](https://img.shields.io/badge/github-repo-green?style=plastic&logo=github&logoColor=black)
