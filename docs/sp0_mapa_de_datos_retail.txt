@@ -1,0 +1,8 @@
+MAPA DE DATOS RETAIL 
+
+Venta online confirmada ⇒ 
+Base de datos: Precio de venta del producto, descuento ⇒ 
+Extraer: Precio de compra del producto, Precio de venta del producto, Descuento en $. Transformar: Margen de ganancia en $ por producto. Cargar: ⇒ 
+Análisis: Si hay ganancia o no por cada producto ⇒  
+Presentación de productos y categorías más rentables ⇒ 
+Decisión: Ajustar precios para mejorar margenes de ganancia o eliminar productos del catálogo. 
